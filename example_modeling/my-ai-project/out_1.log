@@ -1,0 +1,10 @@
+Name: joblib
+Version: 1.4.2
+Summary: Lightweight pipelining with Python functions
+Home-page: https://joblib.readthedocs.io
+Author: 
+Author-email: Gael Varoquaux <gael.varoquaux@normalesup.org>
+License: BSD 3-Clause
+Location: /Users/puneeth/Documents/repo/ai/example_modeling/my-ai-project/.venv/lib/python3.13/site-packages
+Requires: 
+Required-by: scikit-learn
